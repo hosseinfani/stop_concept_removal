@@ -5,3 +5,5 @@ We assume that each user at "each time interval" (daily/hourly) is representing 
 a document = all concepts that are used in all tweets the user at i-th time interval
 
 The document filename is the userid and the index of time interval (day# or hour#).
+
+A document includes conceptid (not the concept title) in our database!
