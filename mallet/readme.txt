@@ -1,0 +1,2 @@
+This folder is the default path to the MALLET library.
+We used MALLET (http://mallet.cs.umass.edu/) library for LDA topic modeling which gives quality metrics on the output topics in an xml file, called diagnostics => http://mallet.cs.umass.edu/diagnostics.php
